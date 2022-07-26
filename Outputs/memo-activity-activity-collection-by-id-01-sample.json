@@ -1,0 +1,56 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-memo-activity-reads/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-memo-activity-reads/SAP_API_Caller.(*SAPAPICaller).ActivityCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E04B6021ED2B6E362FB24C3595E",
+			"ETag": "2013-06-22T18:07:02+09:00",
+			"ID": "1",
+			"ProcessingTypeCode": "0004",
+			"PriorityCode": "3",
+			"ReportedDate": "2013-06-22T09:00:00+09:00",
+			"ReportedDateTime": "2013-06-22T18:06:58+09:00",
+			"SubjectName": "please help the latch does not open",
+			"UUID": "00163E04-B602-1ED2-B6E3-62FB24C3595E",
+			"TypeCode": "39",
+			"LifeCycleStatusCode": "3",
+			"InitiatorCode": "2",
+			"CreationDate": "2013-06-22T09:00:00+09:00",
+			"EntityLastChangedOn": "2013-06-22T18:07:02+09:00"
+		},
+		{
+			"ObjectID": "00163E063FDC1EE489B25090E9DBE3F3",
+			"ETag": "2014-08-17T07:13:15+09:00",
+			"ID": "1",
+			"ProcessingTypeCode": "0007",
+			"PriorityCode": "3",
+			"ReportedDate": "2014-08-16T09:00:00+09:00",
+			"ReportedDateTime": "2014-08-17T07:13:14+09:00",
+			"SubjectName": "Chat From:terence.chesire@sap.com",
+			"UUID": "00163E06-3FDC-1EE4-89B2-5090E9DBE3F3",
+			"TypeCode": "1976",
+			"LifeCycleStatusCode": "1",
+			"InitiatorCode": "2",
+			"CreationDate": "2014-08-16T09:00:00+09:00",
+			"EntityLastChangedOn": "2014-08-17T07:13:15+09:00"
+		},
+		{
+			"ObjectID": "00163E7842081ED9BEDBB1AA319238F9",
+			"ETag": "2019-10-30T15:21:48+09:00",
+			"ID": "1",
+			"ProcessingTypeCode": "0011",
+			"PriorityCode": "3",
+			"ReportedDate": "2019-10-30T09:00:00+09:00",
+			"ReportedDateTime": "2019-10-30T15:21:47+09:00",
+			"SubjectName": "Memo Activity",
+			"UUID": "00163E78-4208-1ED9-BEDB-B1AA319238F9",
+			"TypeCode": "2574",
+			"LifeCycleStatusCode": "1",
+			"InitiatorCode": "1",
+			"CreationDate": "2019-10-30T09:00:00+09:00",
+			"EntityLastChangedOn": "2019-10-30T15:21:48+09:00"
+		}
+	],
+	"time": "2022-07-26T20:14:33+09:00"
+}

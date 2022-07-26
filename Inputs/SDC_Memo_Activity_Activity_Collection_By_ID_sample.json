@@ -1,0 +1,27 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"ActivityCollection": {
+		"ObjectID": "",
+		"ETag": "",
+		"ID": "1",
+		"ProcessingTypeCode": "",
+		"PriorityCode": "",
+		"ReportedDate": "",
+		"ReportedDateTime": "",
+		"SubjectName": "",
+		"UUID": "",
+		"TypeCode": "",
+		"ChannelTypeCodeText": "",
+		"LifeCycleStatusCode": "",
+		"InitiatorCode": "",
+		"CreationDate": "",
+		"EntityLastChangedOn": ""
+	},
+	"api_schema": "MemoActivityActivityCollection",
+	"accepter": ["ActivityCollectionByID"],
+	"memo_activity_code": "1",
+	"deleted": false
+}
